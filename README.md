@@ -1,1 +1,1 @@
-The model can be try out through a web appliction, by running the Fruitapp.
+The model can be try out through a web appliction, by running the Fruitapp using Flask.
